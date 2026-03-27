@@ -1,0 +1,13 @@
+x = [2, 4, 6]
+y = [2, 4, 6]
+print(x == y)  
+print(x is y)
+ 
+print("\n")
+
+marks = 80
+
+if marks >= 90:
+    print("Grade: A")   
+else:
+    print("Grade: B")
